@@ -72,3 +72,8 @@ function useHover<T>(): [MutableRefObject<T>, boolean] {
 
 export default useHover;
 ```
+
+## Experience:
+
+- **Freelance exchange**
+  _2020 - 2022_
