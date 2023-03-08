@@ -77,3 +77,8 @@ export default useHover;
 
 - **Freelance exchange**
   _2020 - 2022_
+
+## Education:
+
+- **BSUIR branch "Minsk Radio Engineering College" (Information technology software)**
+  _September 2021 - June 2025 (expected)_
