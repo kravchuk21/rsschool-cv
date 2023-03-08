@@ -82,3 +82,9 @@ export default useHover;
 
 - **BSUIR branch "Minsk Radio Engineering College" (Information technology software)**
   _September 2021 - June 2025 (expected)_
+
+## Languages:
+
+- Russian - native
+- Belarusian - native
+- English - B1
